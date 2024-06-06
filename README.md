@@ -1,5 +1,8 @@
 # Pizza-Sales-Report
 
+![Pizza1](https://github.com/learnwithUD/-Pizza-Sales-Report/assets/158782540/ad54832a-6258-483f-b7e2-807442a80293)
+
+
 # Introduction
 For a company to continually experience growth in sales, its sales report must be analysed over a period to identity its strengths and weaknesses. This project was aimed to assess performance, sales trends, forecasting, and total revenue made via pizza sales in 2015 using its key factors.
 Insights were also derived from below business questions;
@@ -48,9 +51,21 @@ Below steps were carried to get data ready for analysis
 
 • Month column was coined from the date column
 
+![pizza3](https://github.com/learnwithUD/-Pizza-Sales-Report/assets/158782540/d578c735-4985-4a6c-aa55-e08e87d453ca)
+
+
 Above is the merged pizza sales dataset ready for analysis. It contains 14 columns and 48,620 rows.
 
 # Insights and Findings
+
+![pizza4](https://github.com/learnwithUD/-Pizza-Sales-Report/assets/158782540/b95fc972-a5f5-4e7c-a5c0-0b6507f06dd6)
+
+![pizza5](https://github.com/learnwithUD/-Pizza-Sales-Report/assets/158782540/83657ef8-601e-4daf-a9e0-0f363f9f7f89)
+
+![pizza6](https://github.com/learnwithUD/-Pizza-Sales-Report/assets/158782540/1d4eb658-23a1-4768-84a6-c9e1b8c8b7a5)
+
+![pizza7](https://github.com/learnwithUD/-Pizza-Sales-Report/assets/158782540/b227fd4e-0b81-4141-b24b-e43aa2a80238)
+
 
 • Afternoon and evening have the most distribution of sales by time of day with 49% and 37% respectively. Morning and night have the least distribution with 6% and 8% sale share for the day.
 
@@ -87,6 +102,9 @@ Above is the merged pizza sales dataset ready for analysis. It contains 14 colum
 • More pizza needs to be introduce in the large size as this is the most preferred size.
 
 # Visualization
+
+![pizza8](https://github.com/learnwithUD/-Pizza-Sales-Report/assets/158782540/9d4d3f45-4d33-4610-93b5-c84cae367e69)
+
 
 Interract with my dashboard here https://1drv.ms/x/s!AsjxQAeMa_3zgXCFBSZZab44P15R?e=uYoZkc
 
